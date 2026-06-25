@@ -1,0 +1,6 @@
+{
+  "name": "Termux Master Hub",
+  "description": "The Ultimate Mobile Companion for Termux. An elegant, offline-ready companion and knowledge base for commands, packages, languages, scripting, and customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
